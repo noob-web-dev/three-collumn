@@ -41,7 +41,6 @@ main {
 main {
   min-width: 375px;
   max-width: 1440px;
-  box-shadow: inset 0 0 0 2px black;
 }
 .container {
   display: grid;
@@ -84,7 +83,6 @@ main {
   font-family: var(--font-family-2);
   font-size: var(--font-size-para);
   margin-bottom: var(--mrgn-small);
-  /* min-height: 30%; */
 }
 .cars > button {
   height: 3em;

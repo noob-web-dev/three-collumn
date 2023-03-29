@@ -9,8 +9,8 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 - See hover states for interactive elements
 
-- Solution URL: [](https://github.com/noob-web-dev/three-collumn)
-- Live Site URL: []()
+- Solution URL: [github repository](https://github.com/noob-web-dev/three-collumn)
+- Live Site URL: [live site solution](https://noob-web-dev.github.io/three-collumn/)
 
 ## My process
 
@@ -22,4 +22,4 @@ Users should be able to:
 - CSS Grid
 - Mobile-first workflow
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [ravi](https://www.frontendmentor.io/profile/noob-web-dev)
